@@ -1,4 +1,8 @@
-## Hi there 👋
+# About Me:
+Hi, I'm Kimberley. I'm a CS + Math student studying at Purdue.
+
+## Get in Touch:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kimberley-ni/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kimberleyni.kn@gmail.com)
 
 <!--
 **kimbni/kimbni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
